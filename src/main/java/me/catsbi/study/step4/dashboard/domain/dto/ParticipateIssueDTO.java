@@ -1,4 +1,4 @@
-package me.catsbi.study.step4.domain.dto;
+package me.catsbi.study.step4.dashboard.domain.dto;
 
 public class ParticipateIssueDTO {
     private final String name;

@@ -1,7 +1,7 @@
-package me.catsbi.study.step4.view;
+package me.catsbi.study.step4.dashboard.view;
 
-import me.catsbi.study.step4.domain.Participants;
-import me.catsbi.study.step4.domain.ParticipationStatus;
+import me.catsbi.study.step4.dashboard.domain.Participants;
+import me.catsbi.study.step4.dashboard.domain.ParticipationStatus;
 
 import java.util.stream.IntStream;
 

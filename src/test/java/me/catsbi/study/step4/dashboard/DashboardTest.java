@@ -1,11 +1,11 @@
-package me.catsbi.study.step4;
+package me.catsbi.study.step4.dashboard;
 
-import me.catsbi.study.step4.domain.Dashboard;
-import me.catsbi.study.step4.domain.ParticipationStatus;
+import me.catsbi.study.step4.dashboard.domain.Dashboard;
+import me.catsbi.study.step4.dashboard.domain.ParticipationStatus;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import me.catsbi.study.step4.view.ParticipationResultView;
+import me.catsbi.study.step4.dashboard.view.ParticipationResultView;
 
 import java.io.IOException;
 

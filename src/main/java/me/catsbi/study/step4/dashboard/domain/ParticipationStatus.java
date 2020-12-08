@@ -1,6 +1,6 @@
-package me.catsbi.study.step4.domain;
+package me.catsbi.study.step4.dashboard.domain;
 
-import me.catsbi.study.step4.domain.dto.ParticipateIssueDTO;
+import me.catsbi.study.step4.dashboard.domain.dto.ParticipateIssueDTO;
 import org.kohsuke.github.GHIssue;
 import org.kohsuke.github.GHIssueComment;
 

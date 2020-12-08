@@ -1,4 +1,4 @@
-package me.catsbi.study.step4.domain;
+package me.catsbi.study.step4.dashboard.domain;
 
 import org.kohsuke.github.*;
 
