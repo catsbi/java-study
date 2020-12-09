@@ -3,9 +3,9 @@
 * 4주차부터 코드관련 과제가 나오며 4주차부터 다룬다.
 
 ## 1. 4주차
-1. JUnit 5 학습해보기
-2. Live-study 대시보드를 만드는 코드 작성
-3. LinkedList를 구현하시오
-4. Stack을 구현하시오.
-5. 앞서만든 ListNode를 사용해 Stack을 구현하시오
-6. Queue를 구현하시오
+1. [JUnit 5 학습해보기](./src/main/java/me/catsbi/study/step4/calculator)
+2. [Live-study 대시보드를 만드는 코드 작성](./src/main/java/me/catsbi/study/step4/dashboard)
+3. [LinkedList를 구현하시오](./src/main/java/me/catsbi/study/step4/datastructure)
+4. [Stack을 구현하시오.](./src/main/java/me/catsbi/study/step4/datastructure)
+5. [앞서만든 ListNode를 사용해 Stack을 구현하시오](./src/main/java/me/catsbi/study/step4/datastructure)
+6. [Queue를 구현하시오](./src/main/java/me/catsbi/study/step4/datastructure)
