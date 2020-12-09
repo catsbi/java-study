@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class Dashboard {
+    public static final String REPOSITORY_PATH = "whiteship/live-study";
     private final String token = "토큰값 작성";
     private final GitHub gitHub;
     private final GHRepository repo;
@@ -17,7 +18,7 @@ public class Dashboard {
     }
 
     private GHRepository getRepo() throws IOException {
-        return gitHub.getRepository("whiteship/live-study");
+        return gitHub.getRepository(REPOSITORY_PATH);
     }
 
     private GitHub init() throws IOException {
