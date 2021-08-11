@@ -1,4 +1,4 @@
-#WHITESHIP JAVA STUDY
+# WHITESHIP JAVA STUDY
 * 백기선님의 자바 스터디 18주과정의 과제를 하며 예제코드를 담는다.
 * 4주차부터 코드관련 과제가 나오며 4주차부터 다룬다.
 
